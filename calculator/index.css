@@ -1,0 +1,13 @@
+#container1{
+    background-color:red;   
+    margin-top:100px;
+    width:345px;
+    height:600px;
+}
+.number,.operator{
+    margin-top:30px;
+    margin:30px;
+}
+.textbox{
+    margin-top:10px;
+}
